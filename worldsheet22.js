@@ -10,7 +10,7 @@ export const sheet3=([[0][0],
 
 export const sheet4=([[1][0],
                      [0][0]])
-    R
+    
 export const sheet5=([[1][1],
                       [0][0]])
 
