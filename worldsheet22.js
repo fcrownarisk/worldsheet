@@ -29,7 +29,7 @@ export const sheet10=([[0][1],
                        [1][1]])
 
 export const sheet11=([[1][0],
-                       1][1]])
+                       [1][1]])
 
 export const sheet12=([[1][1],
                       [1][0]])
